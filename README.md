@@ -6,6 +6,7 @@
 
 -  I am yet to be a sofware engineer
 -  trial
+-  keep pushing
 
 <!---
 calvincetom/calvincetom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
