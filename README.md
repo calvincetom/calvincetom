@@ -5,9 +5,7 @@
 - 📫 YOU can reach me via email calvincetom@outlook.com, twitter @calvomay3
 
 -  I am yet to be a sofware engineer
--  trial
--  keep pushing
-
+-  GROWTH
 <!---
 calvincetom/calvincetom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
