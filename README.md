@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calvincetom
 - 💞️ I’m looking to collaborate on any python based projects
-- 📫 YOU can reach me via email calvincetom@outlook.com, and twitter [@calvomay3](https://twitter.com/calvincetom_)
+- 📫 YOU can reach me via email calvincetom@outlook.com, and twitter [@tomcalvince_](https://twitter.com/tomcalvince_)
 
 -  I am yet to be a sofware engineer
 -  GROWTH
